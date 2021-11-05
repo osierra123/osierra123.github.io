@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Adeventure Game](/sample_page)
+<img src="images/?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
