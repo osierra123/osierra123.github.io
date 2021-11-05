@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Adventure Game 
 
-[Adeventure Game](/sample_page)
-<img src="images/?raw=true"/>
+<img src="images/Screenshot (3).png?raw=true"/>
+[Adeventure Game](/)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
